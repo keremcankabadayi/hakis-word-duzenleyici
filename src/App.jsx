@@ -124,7 +124,10 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Word Dosya Düzenleyici</h1>
+      <div className="title-section">
+        <h1>Word Dosya Düzenleyici</h1>
+        <span className="version-badge">v0.0.2</span>
+      </div>
       
       <div className="upload-section">
         <label htmlFor="docx-file" className="file-input-label">
