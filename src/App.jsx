@@ -126,7 +126,7 @@ function App() {
     <div className="container">
       <div className="title-section">
         <h1>Word Dosya Düzenleyici</h1>
-        <span className="version-badge">v0.0.2</span>
+        <span className="version-badge">v0.0.3</span>
       </div>
       
       <div className="upload-section">

@@ -90,9 +90,9 @@ h1 {
 
 /* DOCX içeriği için stil tanımlamaları */
 .doc-content p {
-  margin: 0.5rem 0;
-  padding: 0.5rem;
-  line-height: 1.6;
+  margin: 0.25rem 0;
+  padding: 0.25rem;
+  line-height: 1.2;
   color: #333;
   text-align: left;
 }
